@@ -1,0 +1,14 @@
+4.
+address:mxpCXR8BtQkDFALTcjYgdrVkKwAJLs1nTV
+
+5.
+Trans hash: a63616dd53df42a4ea3a24ab3cca50cff7d24a02dddd5b563ec879f9c0bb736b
+
+Outputs:2 
+Coin Amount: 0.14667231
+Purpose of the output that locks coins: Returns the rest of the input back to coin Faucet.
+
+8.
+Customer wallet:
+
+1LiuX7jM4pmZc4dK1RgyNuL3XesU4sKtLg
